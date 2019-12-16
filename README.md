@@ -3,7 +3,6 @@
 
 ![](images/simulation1.png)
 
-
 ### Background and Objectives
 For this project, I researched background information about data simulisation and and my phenomenon of choice, penalty points in Ireland. I used statistical python packages and visualisation in this simulisation. The analysis was all documented in a jupyter notebook.
 
