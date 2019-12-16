@@ -1,7 +1,7 @@
 # Programming for Data Analysis Project
 ## Simulation of Real World Phenomenon
 
-![](images/simulation.png)
+![](images/simulation1.png)
 
 
 ### Background and Objectives
@@ -26,7 +26,7 @@ The aim of this project was to simulate a real world phenomenon of my choice. Th
 7. Type 'jupyter notebook' or 'jupyter lab' to open up jupyter and click on the .ipynb file to view the jupyter notebook. 
 8. You can also view the jupyter notebook directly on Github by clicking on the link to my repository https://github.com/kevindooley/Simulated-Dataset
 
-### Python Packages used in this Summary.
+### Python Packages used in this Simulation.
 1. Pandas stands for “Python Data Analysis Library" and is open source, free to use. Pandas is quite a game changer when it comes to analyzing data with Python and it is one of the most preferred and widely used tools in data analysing if not the most used library. Pandas allows you to take data from a CSV and create a Python object with rows and columns called data frame. That data frame is then the basis for interpreting the data within the csv file.
 2. NumPy is a package for Python for scientific computing. It supports large, multidimensional arrays and matrices, meaning it is essential for a dataset of this nature.
 3. Seaborn is a high-level Python data visualisation library used for making attractive and informative statistical plots. It acts as a wrapper over matplotlib, and it’s used in conjunction with NumPy and pandas data structures
