@@ -35,16 +35,16 @@ The aim of this project was to simulate a real world phenomenon of my choice. Th
 ### Table of Contents
 
 1. Backgound
-     i.  How does the syste work?
-     ii. Improve Irish Roads Strategy
+     i.   How does the syste work?
+     ii.  Improve Irish Roads Strategy
 2. Dataset Variables
 3. Simulation
      i.   Age
      ii.  Gender
      iii. Location
-     iv.  Reason
+     iv   .Reason
      v.   Points
-     vi. Accidents
+     vi.  Accidents
 4. Create Dataframe
 5. Overview of Dataset
 6. Analysing the  Variables
