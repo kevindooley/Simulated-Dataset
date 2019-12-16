@@ -1,7 +1,7 @@
 # Programming for Data Analysis Project
 ## Simulation of Real World Phenomenon
 
-![](images/lab-data-simulation.png)
+![](images/simulation.png)
 
 
 ### Background and Objectives
@@ -35,16 +35,16 @@ The aim of this project was to simulate a real world phenomenon of my choice. Th
 ### Table of Contents
 
 1. Backgound
-     i.   How does the syste work?
-     ii.  Improve Irish Roads Strategy
+    1.  How does the syste work?
+    2.  Improve Irish Roads Strategy
 2. Dataset Variables
 3. Simulation
-     i.   Age
-     ii.  Gender
-     iii. Location
-     iv   .Reason
-     v.   Points
-     vi.  Accidents
+    1.  Age
+    2.  Gender
+    3.  Location
+    4.  Reason
+    5.  Points
+    6.  Accidents
 4. Create Dataframe
 5. Overview of Dataset
 6. Analysing the  Variables
