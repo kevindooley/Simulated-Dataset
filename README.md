@@ -1,7 +1,7 @@
 # Programming for Data Analysis Project
 ## Simulation of Real World Phenomenon
 
-![](images/simulation.png)
+![](images/lab-data-simulation.png)
 
 
 ### Background and Objectives
